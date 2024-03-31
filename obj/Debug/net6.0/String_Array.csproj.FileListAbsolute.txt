@@ -1,0 +1,14 @@
+C:\Users\samir\source\repos\String_Array\bin\Debug\net6.0\String_Array.exe
+C:\Users\samir\source\repos\String_Array\bin\Debug\net6.0\String_Array.deps.json
+C:\Users\samir\source\repos\String_Array\bin\Debug\net6.0\String_Array.runtimeconfig.json
+C:\Users\samir\source\repos\String_Array\bin\Debug\net6.0\String_Array.dll
+C:\Users\samir\source\repos\String_Array\bin\Debug\net6.0\String_Array.pdb
+C:\Users\samir\source\repos\String_Array\obj\Debug\net6.0\String_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samir\source\repos\String_Array\obj\Debug\net6.0\String_Array.AssemblyInfoInputs.cache
+C:\Users\samir\source\repos\String_Array\obj\Debug\net6.0\String_Array.AssemblyInfo.cs
+C:\Users\samir\source\repos\String_Array\obj\Debug\net6.0\String_Array.csproj.CoreCompileInputs.cache
+C:\Users\samir\source\repos\String_Array\obj\Debug\net6.0\String_Array.dll
+C:\Users\samir\source\repos\String_Array\obj\Debug\net6.0\refint\String_Array.dll
+C:\Users\samir\source\repos\String_Array\obj\Debug\net6.0\String_Array.pdb
+C:\Users\samir\source\repos\String_Array\obj\Debug\net6.0\String_Array.genruntimeconfig.cache
+C:\Users\samir\source\repos\String_Array\obj\Debug\net6.0\ref\String_Array.dll
